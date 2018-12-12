@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "guzzlehttp/guzzle": "~5.0",
+        "guzzlehttp/guzzle": "*",
         "guzzlehttp/cache-subscriber": "0.1.*"
     },
     "require-dev": {
