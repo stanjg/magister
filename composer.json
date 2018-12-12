@@ -17,7 +17,7 @@
     "require": {
         "php": ">=5.4.0",
         "guzzlehttp/guzzle": "*",
-        "guzzlehttp/cache-subscriber": "0.1.*"
+        "guzzlehttp/cache-subscriber": "*"
     },
     "require-dev": {
         "symfony/var-dumper": "^2.7",
